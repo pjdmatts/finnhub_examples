@@ -1,2 +1,2 @@
 # finhub_examples
-Examples using Finhub
+Examples using [Finnhub](https://finnhub.io/docs/api/introduction)
