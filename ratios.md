@@ -2,7 +2,7 @@
 
 See, for example,  'How Finance Works', by Desai
 
-## TODO: Implement using YFinance
+## TODO: Implement using Finnhub
 
 - [ ] Current Ratio
 
